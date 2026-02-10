@@ -1,0 +1,11 @@
+PROPRIETARY LICENSE - TBEE SOLUTIONS
+
+Copyright (c) 2026 Vali Val / Tbee Solutions.
+
+This repository contains a demonstration version of the Tbee NLP Suite. 
+The code provided is for evaluation and educational purposes only. 
+
+PROHIBITED USES:
+Unauthorized copying, redistribution, or commercial use as a SaaS foundation is strictly prohibited.
+
+For commercial licensing, contact: [www.linkedin.com/in/vali-val-3aa0003b0]
